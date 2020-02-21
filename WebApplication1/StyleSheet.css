@@ -1,0 +1,16 @@
+﻿body {
+
+}
+
+.navBarCustom {
+    background-color: #790604;
+    color: black;
+}
+
+.leftPadding{
+    padding-left: 5px;
+}
+
+nav visited{
+    color:black;
+}
